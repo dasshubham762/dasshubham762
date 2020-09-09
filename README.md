@@ -4,18 +4,16 @@
   <em>
     I am a 3nd Year undergraduate from <b>Birbhum Institute of Engineering and Technology </b>, Birbhum, West Bengal. <br>
     I Love Android, and tinkering around with it xD <br>
-
-
+  </em>
+</p>
 
 <br>
-
 
 ![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=dasshubham762&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 <br>
 
 ![Shubham's github page views](https://komarev.com/ghpvc/?username=dasshubham762)
-
 
 <br>
 <br>
