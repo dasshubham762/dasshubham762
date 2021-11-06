@@ -2,7 +2,7 @@
 
 <p>
   <em>
-    I am a 3nd Year undergraduate from <b>Birbhum Institute of Engineering and Technology </b>, Birbhum, West Bengal. <br>
+    I am a 4th Year undergraduate from <b>Birbhum Institute of Engineering and Technology </b>, Birbhum, West Bengal. <br>
     I Love Android, and tinkering around with it xD <br>
   </em>
 </p>
