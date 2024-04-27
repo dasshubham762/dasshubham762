@@ -18,6 +18,9 @@
 <br>
 <br>
 
+  <a href="https://www.linkedin.com/in/dasshubham762">
+    <img align="left" alt="Shubham Das | Linkedin" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+  </a>
   <a href="https://twitter.com/dasshubham762">
     <img align="left" alt="Shubham Das | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
   </a>
